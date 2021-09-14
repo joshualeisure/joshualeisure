@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshualeisure
-- 👀 I’m interested in ... becoming a software developer for a fitness technology company.
-- 🌱 I’m currently learning ... intro to computer science (CS50)
-- 💞️ I’m looking to collaborate on ... anything to help me learn coding.
+- 👀 I’m interested in becoming a software developer for a fitness technology company.
+- 🌱 I’m currently learning full-stack development, using technologies like Javascript (react/svelte) and integrating databases and server-side connections.
+- 💞️ I’m looking to collaborate on any technology as it would be a great learning opportunity!
 - 📫 How to reach me ...my email! leisurejoshua18@gmail.com
 
 <!---
